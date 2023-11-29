@@ -1,3 +1,4 @@
+// Liste des mots utilisés pour le jeu 
 const listeMots = ["Cachalot", "Pétunia", "Serviette"]
 let score = 0
 
